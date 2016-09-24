@@ -45287,7 +45287,7 @@
         <entry key="jsonpath-rw" value="" />
         <entry key="jsonpath-rw-ext" value="" />
         <entry key="jsonpath_flatten" value="" />
-        <entry key="jsonpickle" value="" />
+        <entry key="jsonpickle" value="0.9.3" />
         <entry key="jsonpickler" value="" />
         <entry key="jsonpipe" value="" />
         <entry key="jsonplustypes" value="" />
