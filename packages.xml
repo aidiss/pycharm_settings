@@ -24803,7 +24803,7 @@
         <entry key="django-bootify" value="" />
         <entry key="django-bootlog" value="" />
         <entry key="django-bootmap" value="" />
-        <entry key="django-bootstrap" value="" />
+        <entry key="django-bootstrap" value="0.2.4" />
         <entry key="django-bootstrap-admin" value="" />
         <entry key="django-bootstrap-assets" value="" />
         <entry key="django-bootstrap-breadcrumbs" value="" />
@@ -24836,7 +24836,7 @@
         <entry key="django-bootstrap-toolkit" value="" />
         <entry key="django-bootstrap-typeahead" value="" />
         <entry key="django-bootstrap-ui" value="" />
-        <entry key="django-bootstrap3" value="" />
+        <entry key="django-bootstrap3" value="7.1.0" />
         <entry key="django-bootstrap3-datepicker" value="" />
         <entry key="django-bootstrap3-datetimepicker" value="" />
         <entry key="django-bootstrap3-datetimepicker-2" value="" />
