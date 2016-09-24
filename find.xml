@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'gamerpg'" />
-    <option name="defaultScopeName" value="Project 'gamerpg'" />
-    <option name="SEARCH_SCOPE" value="Project 'gamerpg'" />
+    <option name="customScope" value="Project 'class Lan(Party)'" />
+    <option name="defaultScopeName" value="Project 'class Lan(Party)'" />
+    <option name="SEARCH_SCOPE" value="Project 'class Lan(Party)'" />
   </component>
 </application>
