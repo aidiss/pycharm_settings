@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[The game] - ...\class Lan(Party)'" />
-    <option name="defaultScopeName" value="Directory '[The game] - ...\class Lan(Party)'" />
+    <option name="customScope" value="Project 'The game'" />
+    <option name="defaultScopeName" value="Project 'The game'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[The game] - ...\class Lan(Party)'" />
+    <option name="SEARCH_SCOPE" value="Project 'The game'" />
   </component>
 </application>
